@@ -73,7 +73,9 @@ body {
 }
 .header-img {
     background-image: url('../images/Circle\ design.svg');
-    background-size: cover;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 /* company-logos section styles */
 .company-logos {
